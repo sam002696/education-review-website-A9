@@ -4,62 +4,62 @@
         "name": "Aleksejs Petenko",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-1.jpg"
+        "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg"
     },
     {
         "id": 2,
         "name": "Anna Kunytska",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-2.jpg"
+        "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-2.jpg"
     },
     {
         "id": 3,
         "name": "Ben Daniel",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-3.jpg"
+        "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-3.jpg"
     },
     {
         "id": 4,
         "name": "Dumble Hope",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-4.jpg"
+        "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-4.jpg"
     },
     {
         "id": 5,
         "name": "Hope Jackson",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-5.jpg"
+        "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-5.jpg"
     },
     {
         "id": 6,
         "name": "Mickael Jackson",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-6.jpg"
+        "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-6.jpg"
     },
     {
         "id": 7,
         "name": "Samantha Corp",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-7.jpg"
+        "img": "https://themepure.net/tm/eventturn/event-turn/img/team/team3.jpg"
     },
     {
         "id": 8,
         "name": "Strange Wattson",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-8.jpg"
+        "img": "https://themepure.net/tm/eventturn/event-turn/img/team/team5.jpg"
     },
     {
         "id": 9,
         "name": "Simon Colwel",
         "profession": "Teacher",
         "description": "Lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae.",
-        "img": "http://bookflare.themesflat-addons.com/images/instructors/instructor-9.jpg"
+        "img": "https://themepure.net/tm/eventturn/event-turn/img/team/team6.jpg"
     }
 ]

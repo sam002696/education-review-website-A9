@@ -1,6 +1,6 @@
 # Welcome To Bright EDU Website
 
-Netlify Link : https://brightedu-sam002696.netlify.app/
+Updated Netlify Link : https://brightedu-sam002696.netlify.app/
 
 ## Bullet Points
 
