@@ -20,14 +20,14 @@ const AboutUs = () => {
                         <p className='text-2xl w-2/3'>Many companies foster idea incubation by clustering workers together in collaborative environments. Especially in the case of software companies, employees are actively encouraged to spend work time pondering issues and ways to solve them. Cooperative groups work best for incubation because other members of the group can identify strengths and weaknesses of the idea, resulting in a stronger finished product.
                         </p>
                     </div>
-                    <div>
-                        <img src="http://bookflare.themesflat-addons.com/images/about/detail-1.jpg" alt="" />
+                    <div className='mr-36'>
+                        <img className='rounded-2xl' src="https://themepure.net/tm/alochona/alochona/img/team/team1.jpg" alt="" />
                     </div>
                 </div>
 
                 <div className='flex mx-auto p-36 w-11/12'>
                     <div className="mr-32">
-                        <img src="http://bookflare.themesflat-addons.com/images/about/detail-2.jpg" alt="" />
+                        <img className='rounded-2xl' src="https://themepure.net/tm/alochona/alochona/img/team/team3.jpg" alt="" />
                     </div>
                     <div className='flex-1 flex-col'>
                         <h1 className='text-3xl mb-4 font-semibold'>An Incubator for Ideas</h1>
